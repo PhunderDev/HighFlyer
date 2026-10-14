@@ -1,0 +1,18 @@
+
+Rocket/Avionics/._Avionics.kicad_pcb
+Rocket/Avionics/._Avionics.kicad_prl
+Rocket/Avionics/._Avionics.kicad_pro
+Rocket/Avionics/._Avionics.kicad_sch
+*.history
+Igniter/._Igniter
+Igniter/._Igniter.kicad_pcb
+*.DS_Store
+Igniter/._Igniter.kicad_prl
+Igniter/._Igniter.kicad_pro
+Igniter/._Igniter.kicad_sch
+Ground Station/._Ground Station.kicad_pcb
+Ground Station/._Ground Station.kicad_prl
+Ground Station/._Ground Station.kicad_pro
+Ground Station/._Ground Station.kicad_sch
+*.blend1
+Ground Station/._Software
